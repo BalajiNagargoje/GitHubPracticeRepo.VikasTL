@@ -14,5 +14,10 @@ public class HomeController {
 		System.out.println(" Hello Vikas Sir");
 	}
 	
+	public void push()
+	{
+		System.out.println("doing push operatioon with balaji n pawan");
+	}
+	
 
 }
